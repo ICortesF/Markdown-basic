@@ -14,21 +14,17 @@
 '###### Encabezado h6'  
 
 ## Citas: Para citar solo es necesario escribir una cuña antes del texto
->
+'>'  
 
 ## Texto con énfasis: Agregar un asterisco para cursiva y dos para negrita
 
-*énfasis* (cursiva)
-**énfasis fuerte** (negrita)
+'*énfasis* (cursiva)'  
+'**énfasis fuerte** (negrita)'  
 
 
-Texto con énfasis: Agregar un asterisco para cursiva y dos para negrita
- *énfasis* (cursiva)
-
- **énfasis fuerte** (negrita)
- 
  ## Código: Se utiliza el acento grave para identificar código, y corchetes para identificar el lenguaje de programación
- `Código`
+
+`Código`
  ``` [language]
  Código en 
  varias líneas
