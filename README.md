@@ -13,5 +13,10 @@ Los saltos de línea se generan cuando se encuentran dos espacios juntos
 ##### Encabezado h5
 ###### Encabezado h6
 
-Citas: Para citar solo es necesario escribir una cuña antes del texto
+## Citas: Para citar solo es necesario escribir una cuña antes del texto
 >
+
+## Texto con énfasis: Agregar un asterisco para cursiva y dos para negrita
+
+*énfasis* (cursiva)
+**énfasis fuerte** (negrita)
