@@ -1,6 +1,6 @@
 # Markdown Comandos básicos
 
-https://es.wikipedia.org/wiki/Markdown
+>https://es.wikipedia.org/wiki/Markdown
 
 ## Saltos de línea:
 Los saltos de línea se generan cuando se encuentran dos espacios juntos
@@ -12,3 +12,6 @@ Los saltos de línea se generan cuando se encuentran dos espacios juntos
 #### Encabezado h4
 ##### Encabezado h5
 ###### Encabezado h6
+
+Citas: Para citar solo es necesario escribir una cuña antes del texto
+>
