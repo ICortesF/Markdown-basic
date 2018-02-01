@@ -6,12 +6,12 @@
 
 ## Encabezados: Los encabezados se generan cuando se encuentra una almohadilla antes de texto
 
-\ # Encabezado h1
-'## Encabezado h2'  
-'### Encabezado h3'  
-'#### Encabezado h4'  
-'##### Encabezado h5'  
-'###### Encabezado h6'  
+\# Encabezado h1
+\## Encabezado h2  
+\## Encabezado h3 
+\#### Encabezado h4  
+\##### Encabezado h5  
+\###### Encabezado h6
 
 ## Citas: Para citar solo es necesario escribir una cuña antes del texto
 '>'  
