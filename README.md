@@ -34,11 +34,11 @@
 \* Un elemento en una lista no ordenada  
 \* Otro elemento en una lista  
  
-\1. Elemento en una lista enumerada u ordenada.  
-\2. Otro elemento
+1. Elemento en una lista enumerada u ordenada.  
+2. Otro elemento
  
 ## Enlaces:
 \[Texto del enlace aquí](URL "Título del enlace")  
 
 ## Imágenes:
-\![Texto alternativo](URL "Título de la imagen")
+![Texto alternativo](URL "Título de la imagen")
