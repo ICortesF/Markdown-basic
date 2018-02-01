@@ -1,7 +1,7 @@
 # Markdown Comandos básicos
 
->https://es.wikipedia.org/wiki/Markdown
->https://markdown.es/sintaxis-markdown/
+>https://es.wikipedia.org/wiki/Markdown  
+>https://markdown.es/sintaxis-markdown/  
 
 ## Saltos de línea: Los saltos de línea se generan cuando se encuentran dos espacios juntos
 
