@@ -44,17 +44,17 @@
 ![Texto alternativo](URL "Título de la imagen")
 
 ## Omitir Markdown
-Se trata de la barra invertida \.
-Escribiéndola justo delante de cualquiera de los elementos que verás a continuación, los mismos no tendrán efecto a la hora de convertirse en negritas, cursivas, links…
-\  barra invertida
-`  acento invertido
-*  asterisco
-_  guión bajo
-{} llaves
-[] corchetes
-() paréntesis
-#  almohadilla
-+  símbolo de suma
--  guión
-.  punto
-!  exclamación
+Se trata de la barra invertida \\.  
+Escribiéndola justo delante de cualquiera de los elementos que verás a continuación, los mismos no tendrán efecto a la hora de convertirse en negritas, cursivas, links…  
+\\  barra invertida  
+\`  acento invertido  
+\*  asterisco  
+\_  guión bajo  
+\{} llaves  
+\[] corchetes  
+\() paréntesis  
+\#  almohadilla  
+\+  símbolo de suma  
+\-  guión  
+\.  punto  
+\!  exclamación  
