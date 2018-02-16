@@ -23,9 +23,8 @@
 \'**énfasis fuerte** (negrita)'  
 
 
- ## Código: Se utiliza el acento grave para identificar código, y corchetes para identificar el lenguaje de programación
+ ## Bloque de Código: Se utiliza el acento grave para identificar código, y corchetes para identificar el lenguaje de programación
 
-\`Código`  
 \``` [language]  
  Código en 
  varias líneas  
